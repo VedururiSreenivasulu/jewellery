@@ -32,6 +32,7 @@ Click a product tile to see detailed view with description, price, and images.
 
 
 **👤 About the Author**
+
 Vedururi Sreenivasulu – Passionate about building responsive, elegant web experiences.
 Check out more projects on my GitHub profile.
 
